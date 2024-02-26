@@ -9,4 +9,4 @@ int main() {
     product = number1 + number2;      
     
     printf("%d + %d = %d", number1, number2, product);
-    return 0;
+    return 0
